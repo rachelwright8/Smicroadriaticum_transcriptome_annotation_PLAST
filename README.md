@@ -1,0 +1,2 @@
+# Smicroadriaticum_transcriptome_annotation_PLAST
+Gene and GO annotations for the Symbiodinium microadriaticum transcriptome
